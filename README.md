@@ -48,7 +48,7 @@ Each **component** has its own:
    ```bash
    git clone https://github.com/syedazeez337/perf-playground.git
    cd perf-playground
-````
+   ```
 
 2. Capture environment info:
 
